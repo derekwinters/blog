@@ -1,7 +1,9 @@
+---
 layout: post
 title: SQL Error Log Daily Email Report with PowerShell
 date: 2016-11-11 19:00:00 -0600
 categories: powershell sql scripting
+---
 
 # SQL Error Log Daily Email Report with PowerShell
 
