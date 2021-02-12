@@ -2,11 +2,9 @@
 layout: post
 title: SQL Error Log Daily Email Report with PowerShell
 date: 2016-11-11 19:00:00 -0600
+author: Derek Winters
 categories: powershell sql scripting
 ---
-
-# SQL Error Log Daily Email Report with PowerShell
-
 
 
 In my job, I wind up helping out our DBAs with various tasks for setup, troubleshooting, and reporting. It’s definitely not my main job and I’m still learning a lot from them and from training courses (SQL Skills Accidental DBA was a great one), but when they told me they had some simple PowerShell they were using manually on a daily basis, I jumped at the chance to dig in more and get that automated for them.
