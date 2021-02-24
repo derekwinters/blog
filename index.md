@@ -4,7 +4,7 @@
   {% for post in site.posts %}
   <tr>
     <td>{{ post.date }}</td>
-    <td><a href="{{ post.url }}">{{ post.title }}</a>
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
   </tr>
   {% endfor %}
 </table>
