@@ -3,16 +3,8 @@
 <table border=0>
   {% for post in site.posts %}
   <tr>
-    <td>{{ post.date }}</td>
+    <td>{{ post.date | date: "%Y-%m-%d" }}</td>
     <td><a href="{{ post.url }}">{{ post.title }}</a></td>
   </tr>
   {% endfor %}
 </table>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
