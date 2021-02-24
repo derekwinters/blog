@@ -10,7 +10,7 @@ Time to get a new DNS server up and running. I didn't have as much luck with fin
 
 ## Installation
 
-The proxmox install for the letitroll VM was perfectly smooth, and after installing CentOS 7.3 and getting it up to date on patches, it's time to get bind set up and running. It's been a very long time since I touched bind, so I'll be using a guide from Linux Pit Stop to keep me on track.
+The proxmox install for the letitroll VM was perfectly smooth, and after installing CentOS 7.3 and getting it up to date on patches, it's time to get bind set up and running. It's been a very long time since I touched bind, so I'll be using a guide from [Linux Pit Stop](http://linuxpitstop.com/dns-server-setup-using-bind-9-on-centos-7-linux/) to keep me on track.
 
 ### Packages
 
