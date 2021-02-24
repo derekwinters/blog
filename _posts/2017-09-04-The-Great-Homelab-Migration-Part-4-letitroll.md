@@ -151,6 +151,7 @@ titan        IN A 172.16.0.10
 traitor      IN A 172.16.0.63
 ;CNAME record
 warrior   IN CNAME freenas.home.derekwinters.com.
+```
 
 #### /var/named/0.16.172.db
 
