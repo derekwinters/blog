@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## Blog Posts
 
 <ul>
