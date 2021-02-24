@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Great Homelab Migration - Part 1 - The Plan
+title: The Great Homelab Migration - Part 8 - Warrior
 date: 2018-01-01 12:00:00 -0600
 author: Derek Winters
 categories: homelab
