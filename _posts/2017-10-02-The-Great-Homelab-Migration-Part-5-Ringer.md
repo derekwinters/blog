@@ -12,7 +12,7 @@ Things are starting to get moving on migrating the lab away from my legacy Windo
 
 Like letitroll, I don't expect to need much from this VM. It's getting a 32GB (proxmox default) root drive, 1 CPU, and dynamic RAM from 512-1024MB. Installation took about 5 minutes, updates took another 5. I could get a template up to speed this process up, but it's just making me want foreman and puppet more, so I'm keeping things manual for now. I also really can't wait to get puppet managing SSH keys so I don't need to keep typing passwords when hopping between machines. During the install I used my new DNS server instead of the legacy one, just to confirm it's working, and to have one less system to change later. Once the install was finished, I added the new server to my DNS server because it doesn't make any sense to have so much fun with server names and not use them.
 
-This is another new install for me, so I'm going to see how this guide from itzgeek.com works for me.
+This is another new install for me, so I'm going to see how this guide from [itzgeek.com](http://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/install-and-configure-dhcp-server-on-centos-7-ubuntu-14-04.html) works for me.
 
 ## Packages
 
